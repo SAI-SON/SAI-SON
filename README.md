@@ -21,7 +21,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sai-son-5a0aa6294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/sai-son-5a0aa6294/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SAI-SON" target="_blank">
